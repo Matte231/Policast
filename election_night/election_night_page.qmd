@@ -10,8 +10,8 @@ editor_options:
 # Setup
 call_votes <- FALSE
 
-harris_states <- c("VT", "RI", "DC", "MD", "MA", "CT", "NJ", "DE", "IL")
-trump_states <- c("IN", "KY", "WV", "OK", "MT", "TN", "AL", "MS", "SC", "FL", "AR")
+harris_states <- c("VT", "RI", "DC", "MD", "MA", "CT", "NJ", "DE", "IL", "NY")
+trump_states <- c("IN", "KY", "WV", "OK", "MO", "TN", "AL", "MS", "SC", "FL", "AR", "WY","SD", "ND","TX", "LA", "NE")
 
 called_states <- c()
 called_harris_votes <- c()
